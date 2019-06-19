@@ -1,0 +1,21 @@
+{
+    "name": "nafutam/yii2-alert-nf",
+    "description": "Widget Alert twitter bootstrap for Yii Framework 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nabilaj Fajar Utami",
+            "email": "nafutam@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "nafutam\\alert\\": ""
+        }
+    }
+}
